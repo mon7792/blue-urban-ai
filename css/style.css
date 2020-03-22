@@ -44,14 +44,14 @@
 }
 
 .card-title-2{
-    color:  yellow;
+    color:  rgba(250, 214, 31,1);
     font-size: 60px;
     text-decoration: underline;
     font-weight: bolder;
 }
 
 .card-title-5{
-    color:  yellow;
+    color:  rgba(250, 214, 31,1);
     /* font-size: 60px; */
     text-decoration: underline;
     font-weight: bolder;
@@ -115,6 +115,10 @@ color: #132c33;
 .stat-num-body {
     font-size: 18px;
     font-weight: bolder;
+}
+.stat-row{
+    /* background-color: rgba(69,148,151,0.3); */
+    background-color: rgba(250, 214, 31,0.8);
 }
 /* Section 2 End */
 
