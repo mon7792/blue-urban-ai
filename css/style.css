@@ -93,6 +93,29 @@ color: #132c33;
     text-decoration: underline;
     margin-bottom: 0px;
     padding-top: 20px;}
+
+    .stat-icon{
+        font-size: 48px;
+    }
+
+.stat-num{
+    top: 50%;
+    left: 50%; 
+    border-radius: 50%;
+    width: 72px;
+    height: 72px;
+    padding-top: 15px;
+    background: transparent;
+    border: 3px solid #132c33;
+    color: #132c33;
+    text-align: center;
+
+    font: 32px Arial, sans-serif;
+}
+.stat-num-body {
+    font-size: 18px;
+    font-weight: bolder;
+}
 /* Section 2 End */
 
 /* Section 3 Start */
