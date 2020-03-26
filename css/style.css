@@ -90,7 +90,7 @@
 #stat-head-title{
 color: #132c33;
     /* text-align: center; */
-    text-decoration: underline;
+    /* text-decoration: underline; */
     margin-bottom: 0px;
     padding-top: 20px;}
 
@@ -121,6 +121,18 @@ color: #132c33;
     background-color: rgba(250, 214, 31,0.8);
 }
 /* Section 2 End */
+
+
+/* Section 3 Start */
+.layer-3{
+    color: #132c33;
+    padding: 10px 10px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif !important;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25) !important; 
+}
+/* Section 3 Ends */
 
 /* Section 3 Start */
 #eutro-head-title{
