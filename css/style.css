@@ -120,6 +120,10 @@ color: #132c33;
     /* background-color: rgba(69,148,151,0.3); */
     background-color: rgba(250, 214, 31,0.8);
 }
+.stat-link{
+    color: purple;
+    text-decoration: none ;
+}
 /* Section 2 End */
 
 
@@ -237,7 +241,7 @@ color: #132c33;
 }
 
 #cta-bloom{
-    background-image: url(../img/Baltic_blooms_1.jpg);
+    background-image: url(../img/Baltic_blooms_2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-repeat: no-repeat;
