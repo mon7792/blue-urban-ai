@@ -76,13 +76,12 @@
     /* margin: 10px !important; */
     padding-top: 10px !important;
     padding-bottom: 10px !important;
-    border-style: solid !important;
     border-radius: 10px;
-    border-width: 1px !important;
     margin-top: 10px;
     margin-bottom: 10px;
     /* margin-right: 2px; */
     /* margin: 2px 2px 2px 2px; */
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25) !important;
 }
 .stat-highlight{
     background-color: rgba(69,148,151,0.6)
@@ -108,20 +107,21 @@ color: #132c33;
     background: transparent;
     border: 3px solid #132c33;
     color: #132c33;
-    text-align: center;
-
+    text-align: center;    
     font: 32px Arial, sans-serif;
+    font-weight: bolder;
+
 }
 .stat-num-body {
     font-size: 18px;
     font-weight: bolder;
 }
 .stat-row{
-    /* background-color: rgba(69,148,151,0.3); */
-    background-color: rgba(250, 214, 31,0.8);
+    /* background-color:  rgba(250, 214, 31,0.8); */
+    background-color: white;
 }
 .stat-link{
-    color: purple;
+    /* color: rgba(250, 214, 31,1); */
     text-decoration: none ;
 }
 /* Section 2 End */
@@ -134,7 +134,7 @@ color: #132c33;
     font-size: 18px;
     font-family: 'Open Sans', sans-serif !important;
     border-radius: 10px;
-    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25) !important; 
+    /* box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25) !important;  */
 }
 /* Section 3 Ends */
 
